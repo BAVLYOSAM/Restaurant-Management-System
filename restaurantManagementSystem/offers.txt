@@ -1,0 +1,5 @@
+marketing,any group will take 2 sandwitches free and anyone his friend will take order he will take a coupon,40.0
+loyalty,every 5 orders from same person will take the 6th free,100.0
+reward,offfeerrrr,30.0
+special,happymeal40,40.0
+reward,offerrrrr,50.0

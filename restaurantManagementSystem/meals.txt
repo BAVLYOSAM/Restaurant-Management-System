@@ -1,0 +1,3 @@
+happy meal,140.0
+happymeal,100.0
+bigtasty,300.0
